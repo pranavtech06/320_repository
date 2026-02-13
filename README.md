@@ -1,2 +1,2 @@
 # 320_repository
-Public repository for class 
+Repository for git setup, Pranav Ravi Buregoni
